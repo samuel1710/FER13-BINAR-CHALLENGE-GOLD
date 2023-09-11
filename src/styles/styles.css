@@ -1,3 +1,4 @@
+/* punya pages cari mobil*/
 .logo {
     width: 100px;
     height: 34px;
@@ -11,6 +12,20 @@
 
 }
 
+.custom-Footer{
+   margin-top: 150px;
+}
+
+
+.margin-hero{
+     
+    margin-top: -30px !important;
+
+}
+
+.marginNavbar{
+   margin-bottom: 25px !important;
+}
 .customMargin{
 
     margin-bottom: 100px;
@@ -98,3 +113,10 @@
         font-size: 14px;
     }
 }
+
+.marginsearchcar{
+   
+  position: relative;
+  margin-top: -160px !important;
+}
+

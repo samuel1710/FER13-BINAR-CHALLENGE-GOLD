@@ -8,7 +8,7 @@ import car from '../images/img_car.png';
 function SectionMobil() {
   return (
     <Container fluid 
-    className='customMargin'> 
+    className='customMargin customNavbar margin-hero py-5'> 
 
       <Row className='justify-content-lg-end'>
         <Col className='col-lg-5 col-10'>

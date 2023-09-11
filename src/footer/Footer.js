@@ -6,7 +6,7 @@ import { FiFacebook, FiInstagram, FiTwitter, FiMail, FiTwitch } from 'react-icon
 
 function SectionFooter() {
   return (
-    <Container>
+    <Container className='custom-Footer'>
       <Row>
         <Col className='col-4 '>
             <h1 className='fs-5 fw-bold'>

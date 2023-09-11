@@ -5,13 +5,14 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Offcanvas from 'react-bootstrap/Offcanvas';
+import  '../styles/styles.css';
 
 function NavbarHeader() {
     const expand = "md";
   return (
     <>
      
-        <Navbar key={expand} expand={expand} className=" mb-3">
+        <Navbar  key={expand} expand={expand} className=" mb-3 customNavbar marginNavbar">
           <Container >
             <Navbar.Brand href="#">
               <div className="logo">
